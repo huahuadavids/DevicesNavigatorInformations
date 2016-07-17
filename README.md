@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -689,3 +690,7 @@
   </body>
 </html>
 
+=======
+# DevicesNavigatorInformations
+常用 navigator.userAgent和navigator.platform（响应式开发非常有用）
+>>>>>>> e31203a2bead2365de19dce9946056baaf346776
