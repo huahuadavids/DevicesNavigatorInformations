@@ -1,7 +1,7 @@
 +++++++++++++++++++++++++++++
  
 ------navigator.platform-----
-
+0,Excellent!Emperor Dog!
 1, 苹果手机 : iPhone
 2, 小米手机 : Linux armv7, Linux armv8l
 3, 乐视手机 : Linux aarch64
